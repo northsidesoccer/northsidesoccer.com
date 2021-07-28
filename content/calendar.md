@@ -17,7 +17,7 @@ title = "Fall 2021 Calendar"
       <td>Early Bird Registration Deadline</td>
     </tr>
     <tr>
-      <td>Aug 5</td>
+      <td>Aug 1</td>
       <td></td>
       <td>Registration Deadline</td>
     </tr>

@@ -117,6 +117,13 @@ title = "Fall 2021 Calendar"
       <td>Game day</td>
     </tr>
     <tr>
+      <td>Sep 25</td>
+      <td>
+        TBA
+      </td>
+      <td>Northside Family Picnic</td>
+    </tr>
+    <tr>
       <td>Oct 2</td>
       <td>
         9:00am (U6)<br />

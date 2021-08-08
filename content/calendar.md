@@ -23,8 +23,8 @@ title = "Fall 2021 Calendar"
     </tr>
     <tr>
       <td>Aug 8</td>
-      <td>TBA</td>
-      <td>Field Day at Sahm</td>
+      <td>1pm-5pm</td>
+      <td><a href="/blog/2021/08/08/field-day">Field Day at Sahm</a></td>
     </tr>
     <tr>
       <td>Aug 10</td>

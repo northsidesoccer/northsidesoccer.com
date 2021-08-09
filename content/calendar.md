@@ -70,6 +70,11 @@ title = "Fall 2021 Calendar"
       <td>Game day</td>
     </tr>
     <tr>
+      <td>Aug 28-Aug 29</td>
+      <td></td>
+      <td>Hot Box Pizza fundraiser</td>
+    </tr>
+    <tr>
       <td>Sep 4</td>
       <td></td>
       <td>No games -- Labor Day Weekend</td>

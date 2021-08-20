@@ -50,17 +50,7 @@ title = "Fall 2021 Calendar"
       </td>
       <td>First game</td>
     </tr>
-    <tr>
-      <td>Aug 24</td>
-      <td>6:30pm</td>
-      <td>Game night (Tuesday teams)</td>
-    </tr>
-    <tr>
-      <td>Aug 26</td>
-      <td>6:30pm</td>
-      <td>Game night (Thursday teams)</td>
-    </tr>
-    <tr>
+ <tr>
       <td>Aug 28</td>
       <td>
         9:00am (U6)<br />
@@ -74,7 +64,17 @@ title = "Fall 2021 Calendar"
       <td></td>
       <td>Hot Box Pizza fundraiser</td>
     </tr>
+     <tr>
+      <td>Aug 31</td>
+      <td>6:30pm</td>
+      <td>Game night (Tuesday teams)</td>
+    </tr>
     <tr>
+      <td>Sep 2</td>
+      <td>6:30pm</td>
+      <td>Game night (Thursday teams)</td>
+    </tr>
+     <tr>
       <td>Sep 4</td>
       <td></td>
       <td>No games -- Labor Day Weekend</td>

@@ -24,7 +24,7 @@ When are games?
 
   * The U6 league plays at 9:00am.
   * The U8 league plays at 10:15am.
-  * The U10 league plays at 9:15am.
+  * The U10 league plays at 9:00am.
 
   To fit in an eighth game, we typically play once on a Tuesday or
   Thursday in lieu of the regular Rec practice.

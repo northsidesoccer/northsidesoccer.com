@@ -1,7 +1,7 @@
 +++
-title = "Registration is closed"
-date = "2021-08-20T09:49:00-04:00"
-publishdate = "2021-08-20"
+title = "Registration is open"
+date = "2021-11-13T09:49:00-04:00"
+publishdate = "2021-11-15"
 banner = "img/ball.jpg"
 +++
 

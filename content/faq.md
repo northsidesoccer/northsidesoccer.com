@@ -30,7 +30,7 @@ How are age groups determined?
   * U19: 16 to 18 years of age
 
 Where are practices and games held?
-: All practices are held at Sahm Park. Reference the [rules] for game locations.
+: All practices are held at Sahm Park. Reference the [rules](/rules) for game locations.
 
 When are practices?
 : <p>Rec teams practice on Tuesdays or Thursdays. Select your preference during registration. Most teams practice at 6:30pm for 45 minutes to an hour, at the discretion of the coaches.</p>

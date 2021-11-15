@@ -61,6 +61,11 @@ title = "Fall 2021 Calendar"
       <td>First game</td>
     </tr>
     <tr>
+      <td>Apr 16</td>
+      <td>TBA</td>
+      <td>Chipotle Night</td>
+    </tr>
+    <tr>
       <td>Apr 23</td>
       <td>
         9:00am (U6)<br />
@@ -112,11 +117,6 @@ title = "Fall 2021 Calendar"
       <td>Game day</td>
     </tr>
     <tr>
-      <td>May 17</td>
-      <td>TBA</td>
-      <td>Culver's Night</td>
-    </tr>
-    <tr>
       <td>May 21</td>
       <td>
         9:00am (U6)<br />
@@ -124,6 +124,11 @@ title = "Fall 2021 Calendar"
         10:15am (U8)<br />
       </td>
       <td>Game day</td>
+    </tr>
+    <tr>
+      <td>May 21</td>
+      <td>TBA</td>
+      <td>Family picnic</td>
     </tr>
     <tr>
       <td>May 24</td>

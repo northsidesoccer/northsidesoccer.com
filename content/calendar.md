@@ -61,11 +61,6 @@ title = "Fall 2021 Calendar"
       <td>First game</td>
     </tr>
     <tr>
-      <td>Apr 16</td>
-      <td>TBA</td>
-      <td>Chipotle Night</td>
-    </tr>
-    <tr>
       <td>Apr 23</td>
       <td>
         9:00am (U6)<br />

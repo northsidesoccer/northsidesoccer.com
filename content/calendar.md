@@ -1,5 +1,5 @@
 +++
-title = "Fall 2021 Calendar"
+title = "Spring 2022 Calendar"
 +++
 
 <table class="table">
@@ -32,17 +32,17 @@ title = "Fall 2021 Calendar"
       <td>Registration Deadline</td>
     </tr>
     <tr>
-      <td>Apr 3</td>
+      <td>Apr 2</td>
       <td>TBA</td>
       <td>Field Day at Sahm</td>
     </tr>
     <tr>
-      <td>Apr 6</td>
+      <td>Apr 5</td>
       <td>6:30pm</td>
       <td>First practice (Tuesday teams)</td>
     </tr>
     <tr>
-      <td>Apr 8</td>
+      <td>Apr 7</td>
       <td>6:30pm</td>
       <td>First practice (Thursday teams)</td>
     </tr>

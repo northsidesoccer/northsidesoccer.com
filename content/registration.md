@@ -2,13 +2,8 @@
 title = "Registration"
 +++
 
-## Registration is open
+## Registration is closed
 
-Registration is open for the Spring 2022 season!
-Register by January 30 to save an extra $10 with our early bird discount.
-
-<center>
-  <a href="https://system.gotsport.com/programs/9506729G2?reg_role=player" class="btn btn-template-primary btn-lg">Register now!</a>
-</center>
+Registration is now closed for the Spring 2022 season.  Please check back again in June for information on our Fall 2022 season.
 
 <p><!-- space below buttons --></p>

@@ -2,8 +2,16 @@
 title = "Registration"
 +++
 
-## Registration is closed
+## Registration update
 
-Registration is now closed for the Spring 2022 season.  Please check back again in June for information on our Fall 2022 season.
+We still have limited Spring 2022 spots open for:
+
+* U14 Girls
+* U10 coed
+* U8 coed
+
+Please contact <a href="mailto:webmaster@northsidesoccer.com">webmaster@northsidesoccer.com</a> for those age groups.
+
+Our other age groups are full.  Please check back in June for updates on our Fall 2022 registration!
 
 <p><!-- space below buttons --></p>

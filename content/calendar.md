@@ -61,6 +61,13 @@ title = "Spring 2022 Calendar"
       <td>First game</td>
     </tr>
     <tr>
+      <td>Apr 19</td>
+      <td>
+        5pm-9pm)<br />
+      </td>
+      <td>Chipotle Night</td>
+    </tr>
+    <tr>
       <td>Apr 23</td>
       <td>
         9:00am (U6)<br />
@@ -90,7 +97,7 @@ title = "Spring 2022 Calendar"
     </tr>
     <tr>
       <td>May 3</td>
-      <td>TBA</td>
+      <td>5-8</td>
       <td>Culver's Night</td>
     </tr>
     <tr>

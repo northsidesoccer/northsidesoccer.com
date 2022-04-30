@@ -119,6 +119,11 @@ title = "Spring 2022 Calendar"
       <td>Game day</td>
     </tr>
     <tr>
+      <td>May 14</td>
+      <td>TBA</td>
+      <td>Family picnic</td>
+    </tr>
+    <tr>
       <td>May 21</td>
       <td>
         9:00am (U6)<br />
@@ -126,11 +131,6 @@ title = "Spring 2022 Calendar"
         10:15am (U8)<br />
       </td>
       <td>Game day</td>
-    </tr>
-    <tr>
-      <td>May 21</td>
-      <td>TBA</td>
-      <td>Family picnic</td>
     </tr>
     <tr>
       <td>May 24</td>

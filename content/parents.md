@@ -46,7 +46,7 @@ league, please let us know.
 
 ## Pictures
 
-Per the registratoin agreement, pictures may be taken of child and/or
+Per the registration agreement, pictures may be taken of child and/or
 parent participation, and such pictures may be used by the league for
 marketing and promotion of the league.
 

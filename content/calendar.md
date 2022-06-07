@@ -12,47 +12,42 @@ title = "Spring 2022 Calendar"
   </thead>
   <tbody>
     <tr>
-      <td>Nov 15</td>
+      <td>Jun 6</td>
       <td></td>
       <td>Registration opens</td>
     </tr>
     <tr>
-      <td>Dec 15</td>
-      <td></td>
-      <td>Cutoff for Rec Plus Lottery</td>
-    </tr>
-    <tr>
-      <td>Jan 30</td>
+      <td>Jun 30</td>
       <td></td>
       <td>Early Bird Registration Deadline</td>
     </tr>
     <tr>
-      <td>Mar 27</td>
+      <td>Jul 24</td>
       <td></td>
       <td>Registration Deadline</td>
     </tr>
     <tr>
-      <td>Apr 2</td>
+      <td>Aug 7</td>
       <td>TBA</td>
       <td>Field Day at Sahm</td>
     </tr>
     <tr>
-      <td>Apr 5</td>
+      <td>Aug 9</td>
       <td>6:30pm</td>
       <td>First practice (Tuesday teams)</td>
     </tr>
     <tr>
-      <td>Apr 7</td>
+      <td>Aug 11</td>
       <td>6:30pm</td>
       <td>First practice (Thursday teams)</td>
     </tr>
     <tr>
-      <td>Apr 9</td>
+      <td>Aug 13</td>
       <td>10:00am</td>
       <td>Coaches' clinic</td>
     </tr>
     <tr>
-      <td>Apr 16</td>
+      <td>Aug 20</td>
       <td>
         9:00am (U6)<br />
         9:00am (U10)<br />
@@ -61,14 +56,7 @@ title = "Spring 2022 Calendar"
       <td>First game</td>
     </tr>
     <tr>
-      <td>Apr 19</td>
-      <td>
-        5pm-9pm)<br />
-      </td>
-      <td>Chipotle Night</td>
-    </tr>
-    <tr>
-      <td>Apr 23</td>
+      <td>Aug 27</td>
       <td>
         9:00am (U6)<br />
         9:00am (U10)<br />
@@ -77,78 +65,78 @@ title = "Spring 2022 Calendar"
       <td>Game day</td>
     </tr>
     <tr>
-      <td>Apr 26</td>
-      <td>During practice</td>
-      <td>Picture night (Tuesday teams)</td>
-    </tr>
-    <tr>
-      <td>Apr 28</td>
-      <td>During practice</td>
-      <td>Picture night (Thursday teams)</td>
-    </tr>
-    <tr>
-      <td>Apr 30</td>
-      <td>
-        9:00am (U6)<br />
-        9:00am (U10)<br />
-        10:15am (U8)<br />
-      </td>
-      <td>Game day</td>
-    </tr>
-    <tr>
-      <td>May 3</td>
-      <td>5-8</td>
-      <td>Culver's Night</td>
-    </tr>
-    <tr>
-      <td>May 7</td>
-      <td>
-        9:00am (U6)<br />
-        9:00am (U10)<br />
-        10:15am (U8)<br />
-      </td>
-      <td>Game day</td>
-    </tr>
-    <tr>
-      <td>May 14</td>
-      <td>
-        9:00am (U6)<br />
-        9:00am (U10)<br />
-        10:15am (U8)<br />
-      </td>
-      <td>Game day</td>
-    </tr>
-    <tr>
-      <td>May 14</td>
-      <td>TBA</td>
-      <td>Family picnic</td>
-    </tr>
-    <tr>
-      <td>May 21</td>
-      <td>
-        9:00am (U6)<br />
-        9:00am (U10)<br />
-        10:15am (U8)<br />
-      </td>
-      <td>Game day</td>
-    </tr>
-    <tr>
-      <td>May 24</td>
+      <td>Aug 30</td>
       <td>6:30pm</td>
       <td>Game night (Tuesday teams)</td>
     </tr>
     <tr>
-      <td>May 26</td>
+      <td>Sep 1</td>
       <td>6:30pm</td>
       <td>Game night (Thursday teams)</td>
     </tr>
     <tr>
-      <td>May 28</td>
+      <td>Sep 3</td>
       <td></td>
-      <td>No games -- Memorial Day Weekend</td>
+      <td>No games -- Labor Day Weekend</td>
     </tr>
     <tr>
-      <td>June 4</td>
+      <td>Sep 6</td>
+      <td>During practice</td>
+      <td>Picture night (Tuesday teams)</td>
+    </tr>
+    <tr>
+      <td>Sep 8</td>
+      <td>During practice</td>
+      <td>Picture night (Thursday teams)</td>
+    </tr>
+    <tr>
+      <td>Sep 10</td>
+      <td>
+        9:00am (U6)<br />
+        9:00am (U10)<br />
+        10:15am (U8)<br />
+      </td>
+      <td>Game day</td>
+    </tr>
+    <tr>
+      <td>Sep 17</td>
+      <td>
+        9:00am (U6)<br />
+        9:00am (U10)<br />
+        10:15am (U8)<br />
+      </td>
+      <td>Game day</td>
+    </tr>
+    <tr>
+      <td>Sep 17</td>
+      <td>TBA</td>
+      <td>Family picnic</td>
+    </tr>
+    <tr>
+      <td>Sep 21</td>
+      <td>5-8</td>
+      <td>Culver's Night</td>
+    </tr>
+    <tr>
+      <td>Sep 24</td>
+      <td>
+        9:00am (U6)<br />
+        9:00am (U10)<br />
+        10:15am (U8)<br />
+      </td>
+      <td>Game day</td>
+    </tr>
+    <tr>
+      <td>Oct 1</td>
+      <td>
+        9:00am (U6)<br />
+        9:00am (U10)<br />
+        10:15am (U8)<br />
+      </td>
+      <td>Game day</td>
+    </tr>
+    <tr>
+      <td>Oct 8</td>
       <td>
         9:00am (U6)<br />
         9:00am (U10)<br />

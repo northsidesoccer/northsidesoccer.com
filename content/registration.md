@@ -2,16 +2,17 @@
 title = "Registration"
 +++
 
-## Registration update
+## Registration is open
 
-We still have limited Spring 2022 spots open for:
+Registration is open for the Fall 2022 season!
+Registration will close July 24, so register early to guarantee your child a spot.
+Register by June 30 to save an extra $10 with our early bird discount.
 
-* U14 Girls
-* U10 coed
-* U8 coed
+Rec players are under 10 as of August 1, 2022.
+Rec Plus players are 10 years old as of August 1, 2022 through high school seniors.
 
-Please contact <a href="mailto:webmaster@northsidesoccer.com">webmaster@northsidesoccer.com</a> for those age groups.
-
-Our other age groups are full.  Please check back in June for updates on our Fall 2022 registration!
+<center>
+  <a href="https://system.gotsport.com/programs/49203106T?reg_role=player" class="btn btn-template-primary btn-lg">Register</a>
+</center>
 
 <p><!-- space below buttons --></p>

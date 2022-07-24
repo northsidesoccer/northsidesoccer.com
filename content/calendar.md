@@ -1,5 +1,5 @@
 +++
-title = "Spring 2022 Calendar"
+title = "Fall 2022 Calendar"
 +++
 
 <table class="table">

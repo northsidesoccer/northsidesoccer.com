@@ -27,8 +27,8 @@ title = "Fall 2022 Calendar"
       <td>Registration Deadline</td>
     </tr>
     <tr>
-      <td>Aug 7</td>
-      <td>TBA</td>
+      <td>Aug 6</td>
+      <td>8am-12pm</td>
       <td>Field Day at Sahm</td>
     </tr>
     <tr>

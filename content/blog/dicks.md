@@ -1,6 +1,6 @@
 +++
 title = "20% Off Day at Dick's"
-date = "2022-08-03T10:49:00-04:00"
+date = "2022-08-12T10:49:00-04:00"
 publishdate = "2022-08-03"
 banner = "img/dicks.jpg"
 +++

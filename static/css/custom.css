@@ -1,0 +1,52 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+dt {
+    margin-top: 1.25em;
+}
+
+#footer .social a {
+    color: #999;
+}
+
+#footer .logo {
+    margin: 0 25%;
+    width: 50%;
+}
+
+#calendar {
+    color: #aaa;
+}
+
+.level {
+    margin: 0.75em auto 0 auto;
+    font-size: 80%;
+    width: 60%;
+    text-transform: uppercase;
+    padding: 0.5em;
+    border-radius: 0.5em;
+}
+.level.premier {
+    background: #da4d4d;
+    color: white;
+}
+.level.gold {
+    background: gold;
+    color: black;
+}
+.level.silver {
+    background: silver;
+    color: black;
+}
+.level.bronze {
+    background: #cd7f32;
+    color: black;
+}

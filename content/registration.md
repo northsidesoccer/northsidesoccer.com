@@ -6,10 +6,13 @@ title = "Registration"
 
 Registration is open for the Spring 2023 season!
 Registration will close March 24, so register early to guarantee your child a spot.
-Register by December 31 to save an extra $10 with our early bird discount.
+<!--Register by December 31 to save an extra $10 with our early bird discount.-->
 
 Rec players are under 10 as of August 1, 2022.
 Rec Plus players are 10 years old as of August 1, 2022 through high school seniors.
+
+_This is for Northside Soccer of Indianapolis.  If you are not in
+Central Indiana, please double check your link!_
 
 <center>
   <a href="https://system.gotsport.com/programs/87051X071?reg_role=player" class="btn btn-template-primary btn-lg">Register</a>

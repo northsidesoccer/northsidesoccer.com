@@ -14,12 +14,6 @@ Rec Plus players are 10 years old as of August 1, 2022 through high school senio
 _This is for Northside Soccer of Indianapolis.  If you are not in
 Central Indiana, please double check your link!_
 
-February 20 update: The GotSport registration system is experiencing
-an extended downtime.  The current estimate is Wednesday or Thursday.
-Northside is aware of the issue, but can only cheer their engineers on
-from the sideline.  Thank you for your patience, and you may proceed
-to the link below to get an update from GotSport.
-
 <center>
   <a href="https://system.gotsport.com/programs/87051X071?reg_role=player" class="btn btn-template-primary btn-lg">Register</a>
 </center>

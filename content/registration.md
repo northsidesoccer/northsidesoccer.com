@@ -14,6 +14,11 @@ Rec Plus players are 10 years old as of August 1, 2022 through high school senio
 _This is for Northside Soccer of Indianapolis.  If you are not in
 Central Indiana, please double check your link!_
 
+We are full at the following age levels:
+- U12 Boys
+- U12 Girls
+- U14 Girls
+
 <center>
   <a href="https://system.gotsport.com/programs/87051X071?reg_role=player" class="btn btn-template-primary btn-lg">Register</a>
 </center>

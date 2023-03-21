@@ -33,7 +33,7 @@ title = "Spring 2023 Calendar"
     </tr>
     <tr>
       <td>Apr 2</td>
-      <td>8am-12pm</td>
+      <td>1pm-5pm</td>
       <td>Field Day at Sahm</td>
     </tr>
     <tr>

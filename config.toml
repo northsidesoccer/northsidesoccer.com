@@ -176,7 +176,7 @@ paginate = 10
     enable = true
     icon = "fa fa-user-plus"
     title = "Spring 2023 registration is open!"
-    subtitle = "Just $115 for Rec and $130 for Rec Plus. The season begins the week of April 5."
+    subtitle = "Just $115 for Rec and $130 for Rec Plus. The season begins the week of April 5.<p>Registrations are full for U12 Boys, U12 Girls, U14 Girls"
     link_text = "Register now!"
     link_url = "/registration/"
 

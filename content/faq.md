@@ -20,7 +20,7 @@ What is the difference between Rec, Rec Plus and Travel Soccer?
   * Rec Plus: U12 to U19
 
 How are age groups determined?
-: Age groups are determined based on the age of your child as of the 1st of August previous to the start of the season (e.g. August 1, 2022 for Fall 2022 and Spring 2023 seasons).
+: Age groups are determined based on the age of your child as of the 1st of August previous to the start of the season (e.g. August 1, 2021 for Fall 2021 and Spring 2022 seasons).
   * U6: 4 to 5 years of age
   * U8: 6 to 7 years of age
   * U10: 8 to 9 years of age

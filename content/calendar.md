@@ -55,7 +55,7 @@ title = "Spring 2023 Calendar"
       <td>Apr 15</td>
       <td>
         9:00am (U6)<br />
-        9:00am (U10)<br />
+        9:00am or 10:15am (U10)<br />
         10:15am (U8)<br />
       </td>
       <td>First game</td>
@@ -64,7 +64,7 @@ title = "Spring 2023 Calendar"
       <td>Apr 22</td>
       <td>
         9:00am (U6)<br />
-        9:00am (U10)<br />
+        9:00am or 10:15am (U10)<br />
         10:15am (U8)<br />
       </td>
       <td>Game day</td>
@@ -83,7 +83,7 @@ title = "Spring 2023 Calendar"
       <td>Apr 29</td>
       <td>
         9:00am (U6)<br />
-        9:00am (U10)<br />
+        9:00am or 10:15am (U10)<br />
         10:15am (U8)<br />
       </td>
       <td>Game day</td>
@@ -97,7 +97,7 @@ title = "Spring 2023 Calendar"
       <td>May 6</td>
       <td>
         9:00am (U6)<br />
-        9:00am (U10)<br />
+        9:00am or 10:15am (U10)<br />
         10:15am (U8)<br />
       </td>
       <td>Game day</td>
@@ -106,7 +106,7 @@ title = "Spring 2023 Calendar"
       <td>May 13</td>
       <td>
         9:00am (U6)<br />
-        9:00am (U10)<br />
+        9:00am or 10:15am (U10)<br />
         10:15am (U8)<br />
       </td>
       <td>Game day</td>
@@ -120,7 +120,7 @@ title = "Spring 2023 Calendar"
       <td>May 20</td>
       <td>
         9:00am (U6)<br />
-        9:00am (U10)<br />
+        9:00am or 10:15am (U10)<br />
         10:15am (U8)<br />
       </td>
       <td>Game day</td>
@@ -144,7 +144,7 @@ title = "Spring 2023 Calendar"
       <td>Jun 3</td>
       <td>
         9:00am (U6)<br />
-        9:00am (U10)<br />
+        9:00am or 10:15am (U10)<br />
         10:15am (U8)<br />
       </td>
       <td>Final game</td>

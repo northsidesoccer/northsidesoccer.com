@@ -64,6 +64,11 @@ opponents, and game times for our U6, U8, and U10 teams.
       <td>First game</td>
     </tr>
     <tr>
+      <td>Apr 20</td>
+      <td>During practice</td>
+      <td>Picture night (Thursday teams)</td>
+    </tr>
+    <tr>
       <td>Apr 22</td>
       <td>
         9:00am (U6)<br />
@@ -76,11 +81,6 @@ opponents, and game times for our U6, U8, and U10 teams.
       <td>Apr 25</td>
       <td>During practice</td>
       <td>Picture night (Tuesday teams)</td>
-    </tr>
-    <tr>
-      <td>Apr 27</td>
-      <td>During practice</td>
-      <td>Picture night (Thursday teams)</td>
     </tr>
     <tr>
       <td>Apr 29</td>

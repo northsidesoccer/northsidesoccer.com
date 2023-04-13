@@ -92,11 +92,6 @@ opponents, and game times for our U6, U8, and U10 teams.
       <td>Game day</td>
     </tr>
     <tr>
-      <td>May 2</td>
-      <td>5-8</td>
-      <td>Culver's Night</td>
-    </tr>
-    <tr>
       <td>May 6</td>
       <td>
         9:00am (U6)<br />
@@ -104,6 +99,11 @@ opponents, and game times for our U6, U8, and U10 teams.
         10:15am (U8)<br />
       </td>
       <td>Game day</td>
+    </tr>
+    <tr>
+      <td>May 9</td>
+      <td>5-8</td>
+      <td>Culver's Night</td>
     </tr>
     <tr>
       <td>May 13</td>

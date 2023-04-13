@@ -2,6 +2,9 @@
 title = "Spring 2023 Calendar"
 +++
 
+Please see the [rec schedule](/pdf/rec-schedule.pdf) for fields,
+opponents, and game times for our U6, U8, and U10 teams.
+
 <table class="table">
   <thead>
     <tr>

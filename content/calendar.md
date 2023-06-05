@@ -25,29 +25,38 @@ opponents, and game times for our U6, U8, and U10 teams.
       <td>Early Bird Registration Deadline</td>
     </tr>
     <tr>
-      <td>Jul 25</td>
+      <td>Jul 21</td>
       <td></td>
       <td>Final Registration Deadline</td>
     </tr>
     <tr>
-      <td>Aug 6</td>
+      <td>Jul 30</td>
       <td>TBA</td>
       <td>Field Day at Sahm</td>
     </tr>
     <tr>
-      <td>Aug 8</td>
+      <td>Aug 1</td>
       <td>6:30pm</td>
       <td>First practice (Tuesday teams)</td>
     </tr>
     <tr>
-      <td>Aug 10</td>
+      <td>Aug 3</td>
       <td>6:30pm</td>
       <td>First practice (Thursday teams)</td>
     </tr>
     <tr>
-      <td>Aug 12</td>
+      <td>Aug 5</td>
       <td>TBA</td>
-      <td>Coaches' clinic</td>
+      <td>Coaches' meeting</td>
+    </tr>
+    <tr>
+      <td>Aug 12</td>
+      <td>
+        9:00am (U6)<br />
+        9:00am or 10:15am (U10)<br />
+        10:15am (U8)<br />
+      </td>
+      <td>First game</td>
     </tr>
     <tr>
       <td>Aug 19</td>
@@ -56,7 +65,7 @@ opponents, and game times for our U6, U8, and U10 teams.
         9:00am or 10:15am (U10)<br />
         10:15am (U8)<br />
       </td>
-      <td>First game</td>
+      <td>Game day</td>
     </tr>
     <tr>
       <td>Aug 26</td>
@@ -130,16 +139,7 @@ opponents, and game times for our U6, U8, and U10 teams.
       <td>Game day</td>
     </tr>
     <tr>
-      <td>Sep 30</td>
-      <td>
-        9:00am (U6)<br />
-        9:00am or 10:15am (U10)<br />
-        10:15am (U8)<br />
-      </td>
-      <td>Game day</td>
-    </tr>
-    <tr>
-      <td>Oct 7</td>
+      <td>Sep 30So </td>
       <td>
         9:00am (U6)<br />
         9:00am or 10:15am (U10)<br />

@@ -4,7 +4,13 @@ title = "Registration"
 
 ## Registration is open
 
-Registration is open for the Fall 2023 season!
+Registration is still open for the Fall 2023 season at the following age levels:
+- U6 Coed
+- U14 Boys
+- U19 Coed
+
+All other age groups are now closed.
+
 Our league is growing fast and space is limited.
 For early bird discount and a guaranteed spot, register by June 30.
 

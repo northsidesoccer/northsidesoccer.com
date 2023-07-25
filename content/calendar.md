@@ -30,8 +30,8 @@ opponents, and game times for our U6, U8, and U10 teams.
       <td>Final Registration Deadline</td>
     </tr>
     <tr>
-      <td>Jul 30</td>
-      <td>TBA</td>
+      <td>Jul 29</td>
+      <td>8am-12pm</td>
       <td>Field Day at Sahm</td>
     </tr>
     <tr>
@@ -139,7 +139,7 @@ opponents, and game times for our U6, U8, and U10 teams.
       <td>Game day</td>
     </tr>
     <tr>
-      <td>Sep 30So </td>
+      <td>Sep 30</td>
       <td>
         9:00am (U6)<br />
         9:00am or 10:15am (U10)<br />

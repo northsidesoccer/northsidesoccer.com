@@ -68,6 +68,16 @@ opponents, and game times for our U6, U8, and U10 teams.
       <td>Game day</td>
     </tr>
     <tr>
+      <td>Aug 22</td>
+      <td>During practice</td>
+      <td>Picture night (Tuesday teams)</td>
+    </tr>
+    <tr>
+      <td>Aug 24</td>
+      <td>During practice</td>
+      <td>Picture night (Thursday teams)</td>
+    </tr>
+    <tr>
       <td>Aug 26</td>
       <td>
         9:00am (U6)<br />
@@ -92,16 +102,6 @@ opponents, and game times for our U6, U8, and U10 teams.
       <td>No games -- Labor Day Weekend</td>
     </tr>
     <tr>
-      <td>Sep 5</td>
-      <td>During practice</td>
-      <td>Picture night (Tuesday teams)</td>
-    </tr>
-    <tr>
-      <td>Sep 7</td>
-      <td>During practice</td>
-      <td>Picture night (Thursday teams)</td>
-    </tr>
-    <tr>
       <td>Sep 9</td>
       <td>
         9:00am (U6)<br />
@@ -111,6 +111,11 @@ opponents, and game times for our U6, U8, and U10 teams.
       <td>Game day</td>
     </tr>
     <tr>
+      <td>Sep 9</td>
+      <td>TBA</td>
+      <td>Family picnic</td>
+    </tr>
+    <tr>
       <td>Sep 16</td>
       <td>
         9:00am (U6)<br />
@@ -118,11 +123,6 @@ opponents, and game times for our U6, U8, and U10 teams.
         10:15am (U8)<br />
       </td>
       <td>Game day</td>
-    </tr>
-    <tr>
-      <td>Sep 16</td>
-      <td>TBA</td>
-      <td>Family picnic</td>
     </tr>
     <tr>
       <td>Sep 19</td>

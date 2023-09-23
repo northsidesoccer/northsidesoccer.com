@@ -2,30 +2,6 @@
 title = "Registration"
 +++
 
-## Registration is open
+## Registration is closed
 
-Registration is still open for the Fall 2023 season at the following age levels:
-- U6 Coed
-- U14 Boys
-- U19 Coed
-
-All other age groups are now closed.
-
-Our league is growing fast and space is limited.
-For early bird discount and a guaranteed spot, register by June 30.
-
-Players who register in July may be waitlisted.
-If you receive a waitlist notification, the league will update you weekly with the status.
-Registration will close July 21 or when the age group is full.
-
-Rec players are under 10 as of August 1, 2023.
-Rec Plus players are 10 years old as of August 1, 2023 through high school seniors.
-
-_This is for Northside Soccer of Indianapolis.  If you are not in
-Central Indiana, please double check your link!_
-
-<center>
-  <a href="https://system.gotsport.com/programs/33431447D?reg_role=player" class="btn btn-template-primary btn-lg">Register</a>
-</center>
-
-<p><!-- space below buttons --></p>
+Registration is closed for the Fall 2023 season.  Please check back in late October for Spring 2024!

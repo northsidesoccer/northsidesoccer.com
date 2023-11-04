@@ -19,7 +19,7 @@ _This is for Northside Soccer of Indianapolis.  If you are not in
 Central Indiana, please double check your link!_
 
 <center>
-  <a href="https://system.gotsport.com/programs/33431447D?reg_role=player" class="btn btn-template-primary btn-lg">Register</a>
+  <a href="https://system.gotsport.com/programs/6445L3488?reg_role=player" class="btn btn-template-primary btn-lg">Register</a>
 </center>
 
 <p><!-- space below buttons --></p>

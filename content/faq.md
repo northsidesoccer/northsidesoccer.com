@@ -43,7 +43,7 @@ When are games?
   * The U8 league plays at 10:15am.
   * The U10 league plays at 9:00am or 10:15am.
 
-  To fit in an eighth game, we typically play once on a Tuesday or Thursday in lieu of the regular Rec practice.
+  To fit in eight games, we sometimes play on a Tuesday or Thursday in lieu of the regular Rec practice.  These special weeks are noted on the [calendar](/calendar).
 
   Rec Plus games are typically Saturdays and Sundays. Scheduling is done in concert with other local clubs. Some weekends are off, and some weekends may see a game both days.
 

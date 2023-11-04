@@ -175,8 +175,8 @@ paginate = 10
 [params.see_more]
     enable = true
     icon = "fa fa-user-plus"
-    title = "Fall 2023 registration is open!"
-    subtitle = "Just $115 for Rec and $130 for Rec Plus. The season begins the week of August 6."
+    title = "Spring 2024 registration is open!"
+    subtitle = "Just $120 for Rec and $140 for Rec Plus. The season begins the week of August 6."
     link_text = "Register now!"
     link_url = "/registration/"
 

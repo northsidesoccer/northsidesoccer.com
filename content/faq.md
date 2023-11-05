@@ -48,7 +48,7 @@ When are games?
   Rec Plus games are typically Saturdays and Sundays. Scheduling is done in concert with other local clubs. Some weekends are off, and some weekends may see a game both days.
 
 What are the registration fees?
-: <p>The Rec registration fee is $120. The Rec Plus Fee is $140. There is a $10 early bird discount if you register before the deadline listed on the [calendar], and a $5 per sibling discount is provided for families with more than one child participating.</p>
+: <p>The Rec registration fee is $120. The Rec Plus Fee is $140. There is a $10 early bird discount if you register before the deadline listed on the [calendar], and a $10 per sibling discount is provided for families with more than one child participating.</p>
 
   We require a credit card payment during registration. We may charge a $15 fee in case of a refund. For any questions or issues, please contact our finance team at [treasurer@northsidesoccer.com](mailto:treasurer@northsidesoccer.com).
 

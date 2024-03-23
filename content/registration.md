@@ -2,15 +2,26 @@
 title = "Registration"
 +++
 
-## Registration is open
+## Registration is still open at limited age levels
 
-Registration is open for the Spring 2024 season!
-Our league is growing fast and space is limited.
-For early bird discount and a guaranteed spot, register by December 31.
+Registration for the Spring 2024 season remains open for the following age levels only:
 
-Players who register after December may be waitlisted.
-If you receive a waitlist notification, the league will update you weekly with the status.
-Registration will close March 22, or when the age group is full.
+- U16 Coed Rec+
+- U19 Coed Rec+
+
+Please check back in June for Fall 2024 registration at all levels!
+
+<!-- Registration is open for the Spring 2024 season! -->
+<!-- Our league is growing fast and space is limited. -->
+<!-- For early bird discount and a guaranteed spot, register by December 31. -->
+
+## Waitlist
+
+<!-- Players who register after December may be waitlisted. -->
+If you received a waitlist notification, the league will update you weekly with the status.
+<!-- Registration will close March 22, or when the age group is full. -->
+
+## Eligibility
 
 Rec players are under 10 as of August 1, 2023.
 Rec Plus players are 10 years old as of August 1, 2023 through high school seniors.

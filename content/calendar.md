@@ -36,7 +36,7 @@ opponents, and game times for our U6, U8, and U10 teams.
     </tr>
     <tr>
       <td>Apr 7</td>
-      <td>8am-12pm</td>
+      <td>1pm-5pm</td>
       <td>Field Day at Sahm</td>
     </tr>
     <tr>

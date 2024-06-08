@@ -2,6 +2,8 @@
 title = "Spring 2024 Calendar"
 +++
 
+<b>Fall 2024 calendar coming soon.</b>
+
 Please see the [rec schedule](/pdf/rec-schedule.pdf) for fields,
 opponents, and game times for our U6, U8, and U10 teams.
 

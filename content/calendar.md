@@ -99,7 +99,7 @@ opponents, and game times for our U6, U8, and U10 teams.
     <tr>
       <td>Aug 31</td>
       <td></td>
-      <td>No games -- Memorial Day Weekend</td>
+      <td>No games -- Labor Day Weekend</td>
     </tr>
     <tr>
       <td>Sep 7</td>

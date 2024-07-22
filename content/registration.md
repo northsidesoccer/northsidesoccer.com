@@ -4,12 +4,16 @@ title = "Registration"
 
 ## Registration is open
 
-Registration is open for the Fall 2024 season!
-Our league is growing fast and space is limited.
-For early bird discount, register by June 30.
+Registration is still open for the Fall 2024 season at the following age levels:
+- U12 Girls
+- U14 Girls
+- U16 Coed
+- U19 Coed
 
-If you receive a waitlist notification, the league will update you weekly with the status.
-Registration will close July 28, or when the age group is full.
+If you received a waitlist notification, the league will update you weekly with the status.
+
+Please check back in October for Spring 2025 registration at all levels!
+
 <!--more-->
 Rec players are under 10 as of August 1, 2024.
 Rec Plus players are 10 years old as of August 1, 2024 through high school seniors.

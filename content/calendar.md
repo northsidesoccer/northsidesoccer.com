@@ -31,7 +31,7 @@ opponents, and game times for our U6, U8, and U10 teams.
     </tr>
     <tr>
       <td>Jul 27</td>
-      <td>8am-12pm</td>
+      <td>9am-1pm</td>
       <td>Field Day at Sahm</td>
     </tr>
     <tr>

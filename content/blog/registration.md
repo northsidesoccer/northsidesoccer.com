@@ -6,6 +6,7 @@ banner = "img/ball.jpg"
 +++
 
 Registration is still open for the Fall 2024 season at the following age levels:
+- U10 Coed
 - U12 Girls
 - U14 Girls
 - U16 Coed

@@ -4,26 +4,16 @@ title = "Registration"
 
 ## Registration is open
 
-Registration is still open for the Fall 2024 season at the following age levels:
-- U10 Coed
-- U12 Girls
-- U14 Girls
-- U16 Coed
-- U19 Coed
+Registration is open for the Spring 2025 season! Our league is growing fast and space is limited. For early bird discount, register by December 31.
 
-If you received a waitlist notification, the league will update you weekly with the status.
+If you receive a waitlist notification, the league will update you weekly with the status.  Registration will close March 22, or when the age group is full.
 
-Please check back in October for Spring 2025 registration at all levels!
+Rec players are under 10 as of August 1, 2024. Rec Plus players are 10 years old as of August 1, 2024 through high school seniors.
 
-<!--more-->
-Rec players are under 10 as of August 1, 2024.
-Rec Plus players are 10 years old as of August 1, 2024 through high school seniors.
-
-_This is for Northside Soccer of Indianapolis.  If you are not in
-Central Indiana, please double check your link!_
+_This is for Northside Soccer of Indianapolis. If you are not in Central Indiana, please double check your link!_
 
 <center>
-  <a href="https://system.gotsport.com/programs/631364Y33?reg_role=player" class="btn btn-template-primary btn-lg">Register</a>
+  <a href="https://system.gotsport.com/programs/4710M6712?reg_role=player" class="btn btn-template-primary btn-lg">Register</a>
 </center>
 
 <p><!-- space below buttons --></p>

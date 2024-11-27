@@ -31,8 +31,8 @@ opponents, and game times for our U6, U8, and U10 teams.
     </tr>
     <tr>
       <td>Apr 6</td>
-      <td>9am-1pm</td>
       <td>TBA</td>
+      <td>Field Day</td>
     </tr>
     <tr>
       <td>Apr 8</td>

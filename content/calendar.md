@@ -1,5 +1,5 @@
 +++
-title = "Fall 2024 Calendar"
+title = "Spring 2025 Calendar"
 +++
 
 Please see the [rec schedule](/pdf/rec-schedule.pdf) for fields,
@@ -15,42 +15,42 @@ opponents, and game times for our U6, U8, and U10 teams.
   </thead>
   <tbody>
     <tr>
-      <td>Jun 7</td>
+      <td>Nov 1</td>
       <td></td>
       <td>Registration opens</td>
     </tr>
     <tr>
-      <td>Jun 30</td>
+      <td>Dec 31</td>
       <td></td>
       <td>Early Bird Registration Deadline</td>
     </tr>
     <tr>
-      <td>Jul 21</td>
+      <td>Mar 16</td>
       <td></td>
       <td>Final Registration Deadline</td>
     </tr>
     <tr>
-      <td>Jul 27</td>
+      <td>Apr 6</td>
       <td>9am-1pm</td>
-      <td>Field Day at Sahm</td>
+      <td>TBA</td>
     </tr>
     <tr>
-      <td>Jul 30</td>
+      <td>Apr 8</td>
       <td>6:30pm</td>
       <td>First practice (Tuesday teams)</td>
     </tr>
     <tr>
-      <td>Aug 1</td>
+      <td>Apr 10</td>
       <td>6:30pm</td>
       <td>First practice (Thursday teams)</td>
     </tr>
     <tr>
-      <td>Aug 3</td>
+      <td>Aug 12</td>
       <td>TBA</td>
       <td>Coaches' Meeting (Mandatory)</td>
     </tr>
     <tr>
-      <td>Aug 10</td>
+      <td>Apr 19</td>
       <td>
         9:00am (U6)<br />
         9:00am or 10:15am (U10)<br />
@@ -59,26 +59,17 @@ opponents, and game times for our U6, U8, and U10 teams.
       <td>First game</td>
     </tr>
     <tr>
-      <td>Aug 17</td>
-      <td>
-        9:00am (U6)<br />
-        9:00am or 10:15am (U10)<br />
-        10:15am (U8)<br />
-      </td>
-      <td>Game day</td>
-    </tr>
-    <tr>
-      <td>Aug 20</td>
+      <td>Apr 22</td>
       <td>During practice</td>
       <td>Picture night (Tuesday teams)</td>
     </tr>
     <tr>
-      <td>Aug 22</td>
+      <td>Apr 24</td>
       <td>During practice</td>
       <td>Picture night (Thursday teams)</td>
     </tr>
     <tr>
-      <td>Aug 24</td>
+      <td>Apr 26</td>
       <td>
         9:00am (U6)<br />
         9:00am or 10:15am (U10)<br />
@@ -87,22 +78,7 @@ opponents, and game times for our U6, U8, and U10 teams.
       <td>Game day</td>
     </tr>
     <tr>
-      <td>Aug 27</td>
-      <td>6:30pm</td>
-      <td>Game night (Tuesday teams)</td>
-    </tr>
-    <tr>
-      <td>Aug 29</td>
-      <td>6:30pm</td>
-      <td>Game night (Thursday teams)</td>
-    </tr>
-    <tr>
-      <td>Aug 31</td>
-      <td></td>
-      <td>No games -- Labor Day Weekend</td>
-    </tr>
-    <tr>
-      <td>Sep 7</td>
+      <td>May 3</td>
       <td>
         9:00am (U6)<br />
         9:00am or 10:15am (U10)<br />
@@ -111,12 +87,12 @@ opponents, and game times for our U6, U8, and U10 teams.
       <td>Game day</td>
     </tr>
     <tr>
-      <td>Sep 10</td>
+      <td>May 7</td>
       <td>5-8</td>
       <td>Culver's Night</td>
     </tr>
     <tr>
-      <td>Sep 14</td>
+      <td>May 10</td>
       <td>
         9:00am (U6)<br />
         9:00am or 10:15am (U10)<br />
@@ -125,12 +101,12 @@ opponents, and game times for our U6, U8, and U10 teams.
       <td>Game day</td>
     </tr>
     <tr>
-      <td>Sep 21</td>
+      <td>May 17</td>
       <td>TBA</td>
-      <td>Family picnic</td>
+      <td>Family Picnic</td>
     </tr>
     <tr>
-      <td>Sep 21</td>
+      <td>May 17</td>
       <td>
         9:00am (U6)<br />
         9:00am or 10:15am (U10)<br />
@@ -139,7 +115,31 @@ opponents, and game times for our U6, U8, and U10 teams.
       <td>Game day</td>
     </tr>
     <tr>
-      <td>Sep 28</td>
+      <td>May 20</td>
+      <td>6:30pm</td>
+      <td>Game night (Tuesday teams)</td>
+    </tr>
+    <tr>
+      <td>May 22</td>
+      <td>6:30pm</td>
+      <td>Game night (Thursday teams)</td>
+    </tr>
+    <tr>
+      <td>May 24</td>
+      <td></td>
+      <td>No games -- Memorial Day Weekend</td>
+    </tr>
+    <tr>
+      <td>May 31</td>
+      <td>
+        9:00am (U6)<br />
+        9:00am or 10:15am (U10)<br />
+        10:15am (U8)<br />
+      </td>
+      <td>Game day</td>
+    </tr>
+    <tr>
+      <td>Jun 7</td>
       <td>
         9:00am (U6)<br />
         9:00am or 10:15am (U10)<br />

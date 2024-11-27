@@ -45,7 +45,7 @@ opponents, and game times for our U6, U8, and U10 teams.
       <td>First practice (Thursday teams)</td>
     </tr>
     <tr>
-      <td>Aug 12</td>
+      <td>Apr 12</td>
       <td>TBA</td>
       <td>Coaches' Meeting (Mandatory)</td>
     </tr>

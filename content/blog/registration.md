@@ -5,12 +5,15 @@ publishdate = "2024-10-27"
 banner = "img/ball.jpg"
 +++
 
-Registration is open for the Spring 2025 season!
-Our league is growing fast and space is limited.
-For early bird discount, register by December 31.
+Registration is still open for the Spring 2025 season at the following age levels:
+- U6 Coed
+- U8 Coed
+- U12 Boys
+- U12 Girls
 
-If you receive a waitlist notification, the league will update you weekly with the status.
-Registration will close March 22, or when the age group is full.
+If you received a waitlist notification, the league will update you weekly with the status.
+
+Please check back in June for Fall 2025 registration at all levels!
 <!--more-->
 Rec players are under 10 as of August 1, 2024.
 Rec Plus players are 10 years old as of August 1, 2024 through high school seniors.

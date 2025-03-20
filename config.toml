@@ -176,7 +176,7 @@ paginate = 10
     enable = true
     icon = "fa fa-user-plus"
     title = "Spring 2025 registration is open!"
-    subtitle = "Just $120 for Rec and $140 for Rec Plus. The season begins the week of lAugust 5."
+    subtitle = "Just $120 for Rec and $140 for Rec Plus. The season begins the week of April 7."
     link_text = "Register now!"
     link_url = "/registration/"
 

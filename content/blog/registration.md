@@ -7,7 +7,6 @@ banner = "img/ball.jpg"
 
 Registration is still open for the Spring 2025 season at the following age levels:
 - U6 Coed
-- U8 Coed
 - U12 Boys
 - U12 Girls
 

@@ -30,11 +30,6 @@ opponents, and game times for our U6, U8, and U10 teams.
       <td>Final Registration Deadline</td>
     </tr>
     <tr>
-      <td>Apr 6</td>
-      <td>TBA</td>
-      <td>Field Day</td>
-    </tr>
-    <tr>
       <td>Apr 8</td>
       <td>6:30pm</td>
       <td>First practice (Tuesday teams)</td>
@@ -48,6 +43,11 @@ opponents, and game times for our U6, U8, and U10 teams.
       <td>Apr 12</td>
       <td>TBA</td>
       <td>Coaches' Meeting (Mandatory)</td>
+    </tr>
+    <tr>
+      <td>Apr 12</td>
+      <td>12pm-3pm</td>
+      <td>Field Day</td>
     </tr>
     <tr>
       <td>Apr 19</td>

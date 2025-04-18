@@ -2,7 +2,7 @@
 title = "Spring 2025 Calendar"
 +++
 
-Please see the [rec schedule](/pdf/rec-schedule.pdf) for fields,
+Please see the [rec schedule](/pdf/rec-schedule.pdf?2025-04-17) for fields,
 opponents, and game times for our U6, U8, and U10 teams.
 
 <table class="table">

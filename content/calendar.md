@@ -93,17 +93,17 @@ opponents, and game times for our U6, U8, and U10 teams.
     </tr>
     <tr>
       <td>May 10</td>
+      <td>TBA</td>
+      <td>Family Picnic</td>
+    </tr>
+    <tr>
+      <td>May 10</td>
       <td>
         9:00am (U6)<br />
         9:00am or 10:15am (U10)<br />
         10:15am (U8)<br />
       </td>
       <td>Game day</td>
-    </tr>
-    <tr>
-      <td>May 17</td>
-      <td>TBA</td>
-      <td>Family Picnic</td>
     </tr>
     <tr>
       <td>May 17</td>

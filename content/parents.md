@@ -1,5 +1,5 @@
 +++
-title = "Info for parents"
+title = "Conduct"
 +++
 
 ## Please Be On Time
@@ -32,7 +32,7 @@ parents forget this is a recreational league.  Most of our referees
 will also be kids.  I'm sure no parent would want their youngster
 verbally attacked.  Please keep that in mind when the ref misses a
 call.
- 
+
 ## Volunteer Duty
 
 Every parent is responsible to volunteer in some way to help keep our

@@ -37,13 +37,13 @@ paginate = 10
 
 [[menu.main]]
     identifier = "parents"
-    name = "Parents"
+    name = "Conduct"
     url  = "/parents/"
     weight = 4
 
 [[menu.main]]
     identifier = "rules"
-    name = "Rules"
+    name = "Guidelines"
     url  = "/rules/"
     weight = 5
 

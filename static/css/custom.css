@@ -50,3 +50,8 @@ dt {
     background: #cd7f32;
     color: black;
 }
+
+sup {
+    font-weight: bolder;
+    font-size: 100%;
+}

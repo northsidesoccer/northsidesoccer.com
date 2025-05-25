@@ -1,8 +1,6 @@
 +++
-title = "Rules"
+title = "Guidelines"
 +++
-
-We follow the Indiana Youth Soccer Recreation Small-Sided Games Format.
 
 <table class="table">
     <thead>
@@ -18,13 +16,13 @@ We follow the Indiana Youth Soccer Recreation Small-Sided Games Format.
     </thead>
     <tbody>
     <tr>
-        <td>Age Range <a href="soccer-age"><sup>1</sup></td>
+        <td>Age Range <a href="soccer-age"><sup>?</sup></td>
         <td>4-5</td>
         <td>6-7</td>
         <td>8-9</td>
         <td>10-11</td>
         <td>12-13</td>
-        <td>14-18 <a href="#u16-u19"><sup>2</sup></td>
+        <td>14-18 <a href="#u16-u19"><sup>?</sup></td>
     </tr>
 	<tr>
 	    <td>Program</td>
@@ -34,6 +32,15 @@ We follow the Indiana Youth Soccer Recreation Small-Sided Games Format.
 	    <td>Rec Plus</td>
 	    <td>Rec Plus</td>
 	    <td>Rec Plus</td>
+    </tr>
+    <tr>
+	    <td>Practice Night</td>
+	    <td>Tuesday or<br /> Thursday</td>
+	    <td>Tuesday or<br /> Thursday</td>
+	    <td>Monday or<br /> Tuesday</td>
+	    <td>Monday/Thursday or<br /> Tuesday/Thursday</td>
+	    <td>Monday/Thursday or<br /> Tuesday/Thursday</td>
+	    <td>Monday/Thursday or<br /> Tuesday/Thursday</td>
     </tr>
     <tr>
 	    <td>Format</td>
@@ -117,6 +124,24 @@ We follow the Indiana Youth Soccer Recreation Small-Sided Games Format.
 	    <td>Yes</td>
 	</tr>
 	<tr>
+	    <td>Headers</td>
+	    <td>No</td>
+	    <td>No</td>
+	    <td>No</td>
+	    <td>No</td>
+	    <td>Yes</td>
+	    <td>Yes</td>
+	</tr>
+	<tr>
+	    <td>Slide tackling</td>
+	    <td>No</td>
+	    <td>No</td>
+	    <td>No</td>
+	    <td>No</td>
+	    <td>No</td>
+	    <td>No</td>
+	</tr>
+	<tr>
 	    <td>Referees</td>
 	    <td>2 coaches</td>
 	    <td>2 coaches</td>
@@ -159,7 +184,7 @@ We follow the Indiana Youth Soccer Recreation Small-Sided Games Format.
 	    <td>Yes</td>
 	    <td>No</td>
 	    <td>No</td>
-	    <td>Varies <a href="#hs-coded"><sup>3</sup></td>
+	    <td>Varies <a href="#hs-coded"><sup>?</sup></td>
 	</tr>
 	<tr>
 	    <td>Location</td>
@@ -173,7 +198,7 @@ We follow the Indiana Youth Soccer Recreation Small-Sided Games Format.
     </tbody>
 </table>
 
-## Notes
+## FAQ
 
 <a name="soccer-age"><sup>1</sup></a> — Soccer age is determined as of September 1 of the current or previous **fall** season
 
@@ -181,3 +206,4 @@ We follow the Indiana Youth Soccer Recreation Small-Sided Games Format.
 
 <a name="hs-coed"><sup>3</sup></a> — High school may be either coed or boys/girls, based on leaguewide registrations
 
+<a name="hs-coed"><sup>4</sup></a> — Practice night is dictated by coaches' availability

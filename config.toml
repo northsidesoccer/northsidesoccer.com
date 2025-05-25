@@ -179,7 +179,7 @@ paginate = 10
 
 [params.recent_posts]
     enable = true
-    title = "Upcoming events"
+    title = "Updates"
     subtitle = ""
 
 [markup.goldmark.renderer]

@@ -178,7 +178,7 @@ paginate = 10
     subtitle = """**Learn how to [become a sponsor](/pdf/sponsorship.pdf)**"""
 
 [params.recent_posts]
-    enable = true
+    enable = false
     title = "Updates"
     subtitle = ""
 

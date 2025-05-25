@@ -74,12 +74,6 @@ paginate = 10
     pre = "<i class='fab fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
-    weight = 3
-    name = "Twitter"
-    url = "https://twitter.com/NSsoccerindy"
-    pre = "<i class='fab fa-2x fa-twitter'></i>"
-
-[[menu.topbar]]
     weight = 4
     name = "Email"
     url = "mailto:webmaster@northsidesoccer.com"
@@ -89,10 +83,6 @@ paginate = 10
     author = "Northside Soccer"
     defaultKeywords = []
     defaultDescription = "Northside Soccer: Everybody Plays"
-
-    # Twitter
-    twitter = "NSsoccerindy"
-    twitterImage = "img/twitter-default.png"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyA0yzOZ4BxBVTx8EUgLSc-ND4REGQ3ripc"
@@ -131,7 +121,6 @@ paginate = 10
         <span class="social">
           <a title="Instagram" href="https://www.instagram.com/northsidesoccerindy"><i class='fab fa-instagram'></i></a>
           <a title="Facebook" href="https://facebook.com/NorthsideSoccerLeague"><i class='fab fa-facebook'></i></a>
-          <a title="Twitter" href="https://twitter.com/NSsoccerindy"><i class='fab fa-twitter'></i></a>
         </span>
       </p>
       """

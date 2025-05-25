@@ -16,6 +16,5 @@ We are also active on social media!
 
 * [@northsidesoccerindy](https://www.instagram.com/northsidesoccerindy/) on Instagram
 * [NorthsideSoccerLeague](https://facebook.com/NorthsideSoccerLeague/) on Facebook
-* [@NSsoccerindy](https://twitter.com/NSsoccerindy) on Twitter
 
 [Sahm Park]: /map

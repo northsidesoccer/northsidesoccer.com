@@ -71,3 +71,14 @@ sup {
 #banner ul {
     padding-left: 1em;
 }
+
+#banner p {
+    text-align: center;
+}
+
+#banner .registration {
+    display: inline-block;
+    color: black;
+    background-color: #f5f5ec;
+    border-color: black;
+}

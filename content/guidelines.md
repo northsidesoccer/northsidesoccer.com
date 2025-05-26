@@ -1,5 +1,6 @@
 +++
 title = "Guidelines"
+aliases = ['/rules']
 +++
 
 <table class="table">

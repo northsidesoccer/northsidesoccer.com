@@ -1,5 +1,6 @@
 +++
 title = "Conduct"
+aliases = ['/parents']
 +++
 
 ## Please Be On Time

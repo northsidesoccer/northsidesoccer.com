@@ -17,13 +17,13 @@ aliases = ['/rules']
     </thead>
     <tbody>
     <tr>
-        <td>Age Range <a href="soccer-age"><sup>?</sup></td>
+        <td>Age Range <a href="#soccer-age"><sup>1</sup></td>
         <td>4-5</td>
         <td>6-7</td>
         <td>8-9</td>
         <td>10-11</td>
         <td>12-13</td>
-        <td>14-18 <a href="#u16-u19"><sup>?</sup></td>
+        <td>14-18 <a href="#u16-u19"><sup>2</sup></td>
     </tr>
 	<tr>
 	    <td>Program</td>
@@ -35,11 +35,11 @@ aliases = ['/rules']
 	    <td>Rec Plus</td>
     </tr>
     <tr>
-	    <td>Practice Night</td>
+	    <td>Practice Night<sup><a href="hs-coed">4</a></sup></td>
 	    <td>Tuesday or<br /> Thursday</td>
 	    <td>Tuesday or<br /> Thursday</td>
 	    <td>Monday or<br /> Tuesday</td>
-	    <td>Monday/Thursday or<br /> Tuesday/Thursday</td>
+	    <td>Monday/Thursday or<br /> Tuesday/Thursday<sup><a href=</td>
 	    <td>Monday/Thursday or<br /> Tuesday/Thursday</td>
 	    <td>Monday/Thursday or<br /> Tuesday/Thursday</td>
     </tr>
@@ -185,7 +185,7 @@ aliases = ['/rules']
 	    <td>Yes</td>
 	    <td>No</td>
 	    <td>No</td>
-	    <td>Varies <a href="#hs-coded"><sup>?</sup></td>
+	    <td>Varies <a href="#hs-coded"><sup>3</sup></td>
 	</tr>
 	<tr>
 	    <td>Location</td>

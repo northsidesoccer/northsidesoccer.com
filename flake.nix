@@ -11,13 +11,11 @@
       ];
       systems = [ "x86_64-linux" "aarch64-darwin" ];
       perSystem = { config, self', inputs', pkgs, system, ... }:
-        let
-          hugo = pkgs.callPackage ./hugo.nix {};
-        in {
+        {
           packages.default = pkgs.hello;
           devShells.default = pkgs.mkShell {
             nativeBuildInputs = [
-              hugo
+              pkgs.hugo
               pkgs.ncftp
             ];
           };

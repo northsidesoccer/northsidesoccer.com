@@ -55,3 +55,19 @@ sup {
     font-weight: bolder;
     font-size: 100%;
 }
+
+#banner {
+    background-color: #f5f5dc;
+    font-size: 85%;
+    font-weight: bolder;
+    color: black;
+    padding: 1em;
+}
+
+#banner .container {
+    max-width: 30em;
+}
+
+#banner ul {
+    padding-left: 1em;
+}

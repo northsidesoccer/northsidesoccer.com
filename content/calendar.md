@@ -140,6 +140,12 @@ opponents, and game times for our U6, U8, and U10 teams.
       <td>League Picnic</td>
     </tr>
     <tr>
+      <td>Sep 23</td>
+      <td>4pm-8pm</td>
+      <td>Qdoba fundraiser<br />
+          6714 E. 82nd St.</td>
+    </tr>
+    <tr>
       <td>Sep 27</td>
       <td>
         9:00am (U6)<br />

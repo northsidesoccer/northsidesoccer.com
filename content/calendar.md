@@ -142,8 +142,8 @@ opponents, and game times for our U6, U8, and U10 teams.
     <tr>
       <td>Sep 23</td>
       <td>4pm-8pm</td>
-      <td>Qdoba fundraiser<br />
-          6714 E. 82nd St.</td>
+      <td><a href="/pdf/qdoba.pdf">Qdoba Fundraiser</a><br>
+      6714 E. 82nd St.</td>
     </tr>
     <tr>
       <td>Sep 27</td>

@@ -167,6 +167,11 @@ pluralizelisttitles = false
     latitude = "39.913825"
     longitude = "-86.058359"
 
+    # banner = """
+    #   <p>Fall 2025 Registration is open!</p>
+    #   <p><a href="https://system.gotsport.com/programs/47636S112?reg_role=player" class="btn btn-template-primary btn-lg">Register now!</a></p>
+    # """
+
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
 

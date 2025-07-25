@@ -168,7 +168,7 @@ pluralizelisttitles = false
     longitude = "-86.058359"
 
     banner = """
-      <p>Fall 2025 registration is closing.<br>A few spots remain for <u>U8 and U10 only.</u></p>
+      <p>Fall 2025 registration is closing.<br>A few spots remain for <u>U6, U8, and U10 only.</u></p>
       <p><a href="https://system.gotsport.com/programs/47636S112?reg_role=player" class="btn btn-template-primary btn-lg">Register now!</a></p>
     """
 

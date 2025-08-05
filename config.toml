@@ -223,7 +223,7 @@ pluralizelisttitles = false
     subtitle = """**Learn how to [become a sponsor](/pdf/sponsorship.pdf)**"""
 
 [params.recent_posts]
-    enable = false
+    enable = true
     title = "Updates"
     subtitle = ""
 

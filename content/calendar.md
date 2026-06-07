@@ -1,5 +1,5 @@
 +++
-title = "Spring 2026 Calendar"
+title = "Fall 2026 Calendar"
 +++
 
 Please see the [rec schedule](/pdf/rec-schedule.pdf?2026-04-16) for fields,

@@ -167,10 +167,10 @@ pluralizelisttitles = false
     latitude = "39.913825"
     longitude = "-86.058359"
 
-    # banner = """
-    #   <p>Fall 2026 registration is open.<br />Registration ends July 19!</p>
-    #   <p><a href="https://system.gotsport.com/programs/576247P37?reg_role=player" class="btn btn-template-primary btn-lg">Register now!</a></p>
-    # """
+    banner = """
+      <p>Spring 2027 registration is open.<br /><!--Registration ends July 19!--></p>
+      <p><a href="https://system.gotsport.com/programs/83745335G?reg_role=player" class="btn btn-template-primary btn-lg">Register now!</a></p>
+    """
 
 [Permalinks]
     blog = "/blog/:filename/"

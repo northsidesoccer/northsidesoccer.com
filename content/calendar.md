@@ -4,8 +4,10 @@ title = "Fall 2026 Calendar"
 
 <div style="font-size: 1.2em; font-weight: bolder; margin-bottom: 1.5em;">
 
-Please see the [schedule](/pdf/rec-schedule.pdf?2026-09-17) for fields,
-opponents, and game times for our U6, U8, and U10 teams.
+Check back soon for the Spring 2027 calendar!
+
+<!--Please see the [schedule](/pdf/rec-schedule.pdf?2026-09-17) for fields,
+opponents, and game times for our U6, U8, and U10 teams.-->
 
 </div>
 

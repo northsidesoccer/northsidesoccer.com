@@ -1,0 +1,21 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          submodules: recursive
+
+      - name: Install Lix
+        uses: samueldr/lix-gha-installer-action@38852f089fdd2f5aabeec42c59c8d180bb8a15e9
+
+      - name: Run Hugo from devshell
+        run: nix develop -c hugo

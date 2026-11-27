@@ -26,4 +26,7 @@ jobs:
           SFTP_USERNAME: ${{ secrets.FTP_USERNAME }}
           SFTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
         run: |
-          nix shell nixpkgs#lftp -c "lftp -u \"$SFTP_USERNAME\",\"$SFTP_PASSWORD\" \"sftp://$SFTP_HOST:2222\" -e \"set sftp:auto-confirm yes; mirror -R --dry-run --verbose ./public/ ./; bye\""
+          nix develop -c lftp \
+            -u "$SFTP_USERNAME","$SFTP_PASSWORD" \
+            "sftp://$SFTP_HOST:2222" \
+            -e "set sftp:auto-confirm yes; mirror -R --dry-run --verbose ./public/ ./; bye"

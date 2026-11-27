@@ -16,7 +16,7 @@
           devShells.default = pkgs.mkShell {
             nativeBuildInputs = [
               pkgs.hugo
-              pkgs.ncftp
+              pkgs.lftp
             ];
           };
         };

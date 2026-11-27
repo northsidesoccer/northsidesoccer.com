@@ -17,7 +17,7 @@ jobs:
       - name: Install Lix
         uses: samueldr/lix-gha-installer-action@38852f089fdd2f5aabeec42c59c8d180bb8a15e9
 
-      - name: Run Hugo from devshell
+      - name: Run Hugo
         run: nix develop -c hugo
 
       - name: Publish (dry nun)
@@ -26,7 +26,25 @@ jobs:
           SFTP_USERNAME: ${{ secrets.FTP_USERNAME }}
           SFTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
         run: |
-          nix develop -c lftp \
-            -u "$SFTP_USERNAME","$SFTP_PASSWORD" \
-            "sftp://$SFTP_HOST:2222" \
-            -e "set sftp:auto-confirm yes; mirror -R --dry-run --verbose ./public/ ./; bye"
+          NETRC_FILE=$(mktemp)
+          chmod 600 "$NETRC_FILE"
+          trap 'rm -f "$NETRC_FILE"' EXIT
+
+          cat >"$NETRC_FILE" <<EOF
+          machine $FTP_SERVER
+          login $FTP_USERNAME
+          password $FTP_PASSWORD
+          EOF
+
+          nix shell nixpkgs#lftp nixpkgs#openssh -c lftp <<EOF
+          debug 0
+          set net:use-netrc true
+          set net:netrc-file "$NETRC_FILE"
+          set net:timeout 15
+          set net:max-retries 1
+          set sftp:auto-confirm yes
+          set sftp:connect-program "ssh -o ControlMaster=auto -o ControlPersist=60 -o ConnectTimeout=15 -o StrictHostKeyChecking=accept-new -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedAlgorithms=+ssh-rsa -o KexAlgorithms=+diffie-hellman-group14-sha1,diffie-hellman-group1-sha1"
+          open "sftp://$FTP_SERVER:2222"
+          mirror -R --parallel=4 --dry-run --verbose ./public/ ./
+          bye
+          EOF

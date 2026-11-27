@@ -32,6 +32,6 @@ jobs:
           set sftp:connect-program "ssh -o ConnectTimeout=15 -o StrictHostKeyChecking=accept-new -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedAlgorithms=+ssh-rsa"
           open "sftp://$FTP_SERVER:2222"
           user "$FTP_USERNAME" "$FTP_PASSWORD"
-          mirror -R --parallel=4 --delete --verbose ./public/ ./
+          mirror -R --parallel=4 --delete --verbose --exclude ^stats/ --exclude '(^|/)\.' ./public/ ./
           bye
           EOF

@@ -20,7 +20,7 @@ jobs:
       - name: Run Hugo
         run: nix develop -c hugo
 
-      - name: Publish (dry nun)
+      - name: Publish
         env:
           FTP_SERVER: ${{ secrets.FTP_SERVER }}
           FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
@@ -39,6 +39,6 @@ jobs:
           set sftp:auto-confirm yes
           set sftp:connect-program "ssh -o ConnectTimeout=15 -o StrictHostKeyChecking=accept-new -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedAlgorithms=+ssh-rsa"
           open "sftp://$FTP_SERVER:2222"
-          mirror -R --parallel=4 --dry-run --verbose ./public/ ./
+          mirror -R --parallel=4 --delete --verbose ./public/ ./
           bye
           EOF

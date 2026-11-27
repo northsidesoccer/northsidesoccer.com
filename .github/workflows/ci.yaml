@@ -19,3 +19,14 @@ jobs:
 
       - name: Run Hugo from devshell
         run: nix develop -c hugo
+
+      - name: Publish
+        uses: SamKirkland/FTP-Deploy-Action@110f9186c050f71550953127052e77650219c287 # v4.4.0
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          local-dir: ./public/
+          server-dir: ./
+          dry-run: true

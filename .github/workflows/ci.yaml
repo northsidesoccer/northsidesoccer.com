@@ -20,13 +20,10 @@ jobs:
       - name: Run Hugo from devshell
         run: nix develop -c hugo
 
-      - name: Publish
-        uses: SamKirkland/FTP-Deploy-Action@110f9186c050f71550953127052e77650219c287 # v4.4.0
-        with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          protocol: ftps
-          local-dir: ./public/
-          server-dir: ./
-          dry-run: true
+      - name: Publish (dry nun)
+        env:
+          SFTP_HOST: ${{ secrets.FTP_SERVER }}
+          SFTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+          SFTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+        run: |
+          nix shell nixpkgs#lftp -c "lftp -u \"$SFTP_USERNAME\",\"$SFTP_PASSWORD\" \"sftp://$SFTP_HOST:2222\" -e \"set sftp:auto-confirm yes; mirror -R --dry-run --verbose ./public/ ./; bye\""

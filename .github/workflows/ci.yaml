@@ -36,6 +36,8 @@ jobs:
 
           nix develop -c lftp <<EOF
           debug 0
+          set sftp:auto-confirm yes
+          set sftp:connect-program "ssh -o ConnectTimeout=15 -o StrictHostKeyChecking=accept-new -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedAlgorithms=+ssh-rsa"
           open "sftp://$FTP_SERVER:2222"
           mirror -R --parallel=4 --dry-run --verbose ./public/ ./
           bye
